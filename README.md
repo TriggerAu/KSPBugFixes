@@ -6,6 +6,7 @@ Some plugin fixes for issues in stock [Kerbal Space Program](http://www.kerbalsp
 
 ### EditorPartListScrollZDepth
 Fix for scrollist handle disappearing if a large number of plugins/mods installed
+
 ```KSPVersion: 1.2.1```
 
 ----
